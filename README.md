@@ -16,11 +16,11 @@
 
 ### Exercises & Project
 
-- [Exercise 1 - Printing]
-- [Exercise 2 - String Manupulation and Debugging]
-- [Exercise 3 - Input Function]
-- [Exercise 4 - Variables]
-- [Project - Stage Name Generator]
+- [Exercise 1 - Printing](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%201/exercises/printing.py)
+- [Exercise 2 - String Manupulation and Debugging](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%201/exercises/string.py)
+- [Exercise 3 - Input Function](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%201/exercises/input.py)
+- [Exercise 4 - Variables](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%201/exercises/variables.py)
+- [Project - Stage Name Generator](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%201/project/bng.py)
 
 
 
