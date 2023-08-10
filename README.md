@@ -23,16 +23,15 @@
 - [Project - Stage Name Generator](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%201/project/bng.py)
 
 
-<!-- ## Day 2 - Tip Calculator
+## Day 2 - Tip Calculator
 
 
 ### Exercises & Project
 
-- [Exercise 1 - ]()
-- [Exercise 2 - ]()
-- [Exercise 3 - ]()
-- [Exercise 4 - ]()
-- [Project - ]() -->
+- [Exercise 1 - Data Types](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%202/exercises/data_type.py)
+- [Exercise 2 - BMI Calculator (Mathmatical Operations)](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%202/exercises/bmi.py)
+- [Exercise 3 - Life in Weeks (F Strings)](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%202/exercises/life.py)
+- [Project - Tip Calculator](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%202/project/tip.py)
 
 
 <!-- ## Author
