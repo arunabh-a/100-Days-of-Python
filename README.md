@@ -23,6 +23,17 @@
 - [Project - Stage Name Generator](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%201/project/bng.py)
 
 
+<!-- ## Day 2 - Tip Calculator
+
+
+### Exercises & Project
+
+- [Exercise 1 - ]()
+- [Exercise 2 - ]()
+- [Exercise 3 - ]()
+- [Exercise 4 - ]()
+- [Project - ]() -->
+
 
 <!-- ## Author
 
