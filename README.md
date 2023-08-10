@@ -14,25 +14,25 @@
 
 ## Day 1 - Stage Name Generator
 
-### Exercises & Project
+### Exercises
 
 - [Exercise 1 - Printing](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%201/exercises/printing.py)
 - [Exercise 2 - String Manupulation and Debugging](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%201/exercises/string.py)
 - [Exercise 3 - Input Function](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%201/exercises/input.py)
 - [Exercise 4 - Variables](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%201/exercises/variables.py)
-- [Project - Stage Name Generator](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%201/project/bng.py)
 
+### Project -[Stage Name Generator](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%201/project/bng.py)
 
 ## Day 2 - Tip Calculator
 
 
-### Exercises & Project
+### Exercises
 
 - [Exercise 1 - Data Types](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%202/exercises/data_type.py)
 - [Exercise 2 - BMI Calculator (Mathmatical Operations)](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%202/exercises/bmi.py)
 - [Exercise 3 - Life in Weeks (F Strings)](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%202/exercises/life.py)
-- [Project - Tip Calculator](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%202/project/tip.py)
 
+### Project -[Tip Calculator](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%202/project/tip.py)
 
 <!-- ## Author
 
