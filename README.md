@@ -26,7 +26,6 @@
 
 ## Day 2 - Tip Calculator
 
-
 ### Exercises
 
 - [Exercise 1 - Data Types](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%202/exercises/data_type.py)
@@ -34,6 +33,64 @@
 - [Exercise 3 - Life in Weeks (F Strings)](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%202/exercises/life.py)
 
 ### Project - [Tip Calculator](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%202/project/tip.py)
+
+
+## Day 3 - Treasure Island (Game) 
+
+### Exercises
+
+- [Exercise 1 - Odd or Even](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%203/exercises/oddeven.py)
+- [Exercise 2 - BMI Calculator 2.0](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%203/exercises/bmi2.0.py)
+- [Exercise 3 - Leap Year](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%203/exercises/leap.py)
+- [Exercise 4 - Pizza Order Practice](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%203/exercises/pizza.py)
+- [Exercise 5 - Love Calculator](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%203/exercises/love.py)
+
+### Project - [Treasure Island](hhttps://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%203/project/treaure_island.py)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- ## Author
 
