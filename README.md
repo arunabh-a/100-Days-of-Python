@@ -11,7 +11,7 @@
  - [Course](https://www.udemy.com/course/100-days-of-code/)
  - [Instructor](https://www.linkedin.com/in/angela-yu-963a584b/)
 &nbsp;
-
+&nbsp;
 ## Day 1 - Stage Name Generator
 
 ### Exercises
