@@ -10,7 +10,7 @@
 
  - [Course](https://www.udemy.com/course/100-days-of-code/)
  - [Instructor](https://www.linkedin.com/in/angela-yu-963a584b/)
-
+&nbsp;
 
 ## Day 1 - Stage Name Generator
 
@@ -22,7 +22,7 @@
 - [Exercise 4 - Variables](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%201/exercises/variables.py)
 
 ### Project - [Stage Name Generator](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%201/project/bng.py)
-
+&nbsp;
 
 ## Day 2 - Tip Calculator
 
@@ -33,7 +33,7 @@
 - [Exercise 3 - Life in Weeks (F Strings)](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%202/exercises/life.py)
 
 ### Project - [Tip Calculator](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%202/project/tip.py)
-
+&nbsp;
 
 ## Day 3 - Treasure Island (Game) 
 
@@ -46,41 +46,7 @@
 - [Exercise 5 - Love Calculator](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%203/exercises/love.py)
 
 ### Project - [Treasure Island](hhttps://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%203/project/treaure_island.py)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+&nbsp;
 
 
 
