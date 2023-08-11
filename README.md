@@ -46,7 +46,7 @@
 - [Exercise 4 - Pizza Order Practice](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%203/exercises/pizza.py)
 - [Exercise 5 - Love Calculator](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%203/exercises/love.py)
 
-### Project - [Treasure Island](hhttps://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%203/project/treasure_island.py)
+### Project - [Treasure Island](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%203/project/treasure_island.py)
 &nbsp;
 
 
