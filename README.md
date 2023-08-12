@@ -9,7 +9,7 @@
 ## Acknowledgements
 
  - [Course](https://www.udemy.com/course/100-days-of-code/)
- - [Instructor](https://www.linkedin.com/in/angela-yu-963a584b/)
+ - [Course Instructor](https://www.linkedin.com/in/angela-yu-963a584b/)
 
 &nbsp;
 
@@ -47,6 +47,17 @@
 - [Exercise 5 - Love Calculator](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%203/exercises/love.py)
 
 ### Project - [Treasure Island](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%203/project/treasure_island.py)
+&nbsp;
+
+## Day 4 - Rock Paper Scissors (Game) 
+
+### Exercises
+
+- [Exercise 1 - Heads or Tails](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%204/exercises/headsortails.py)
+- [Exercise 2 - Banker Roulette](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%204/exercises/banker_roulette.py)
+- [Exercise 3 - Treasure Map](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%204/exercises/map.py)
+
+### Project - [Rock Paper Scissors](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%204/project/rps.py)
 &nbsp;
 
 
