@@ -60,6 +60,18 @@
 ### Project - [Rock Paper Scissors](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%204/project/rps.py)
 &nbsp;
 
+## Day 5 - Password Generator 
+
+### Exercises
+
+- [Exercise 1 - Average Height](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%205/exercises/height.py)
+- [Exercise 2 - High Score](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%205/exercises/high_score.py)
+- [Exercise 3 - Adding Even Numbers](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%205/exercises/even.py)
+- [Exercise 4 - FizzBuzz](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%205/exercises/fizzbuzz.py)
+
+### Project - [Password Generator](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%205/project/passgen.py)
+&nbsp;
+
 
 
 
