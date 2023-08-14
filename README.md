@@ -76,10 +76,10 @@
 
 ### Exercises
 
-- [Exercise 1 - Hurdle 1](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%206/exercises/hurdle 1/hurdle.py)
-- [Exercise 2 - Hurdle 2](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%206/exercises/hurdle 2/hurdle.py)
-- [Exercise 3 - Hurdle 3](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%206/exercises/hurdle 3/hurdle.py)
-- [Exercise 4 - Hurdle 4](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%206/exercises/hurdle 4/hurdle.py)
+- [Exercise 1 - Hurdle 1](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%206/exercises/hurdle%201/hurdle.py)
+- [Exercise 2 - Hurdle 2](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%206/exercises/hurdle%202/hurdle.py)
+- [Exercise 3 - Hurdle 3](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%206/exercises/hurdle%203/hurdle.py)
+- [Exercise 4 - Hurdle 4](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%206/exercises/hurdle%204/hurdle.py)
 
 ### Challenge - [Maze](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%206/challenge/maze.py)
 &nbsp;
