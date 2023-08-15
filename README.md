@@ -84,6 +84,10 @@
 ### Challenge - [Maze](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%206/challenge/maze.py)
 &nbsp;
 
+<!-- ## Day 7 - Hangman (Game)
+
+### Project - [Hangman](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%207/hangman/hangman.py)
+&nbsp; -->
 
 
 
