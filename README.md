@@ -9,7 +9,7 @@
 ## Acknowledgements
 
  - [Course](https://www.udemy.com/course/100-days-of-code/)
- - [Course Instructor](https://www.linkedin.com/in/angela-yu-963a584b/)
+ - [Course Instructor](https://github.com/angelabauer)
 
 &nbsp;
 
