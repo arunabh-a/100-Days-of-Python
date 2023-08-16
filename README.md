@@ -89,6 +89,16 @@
 ### Project - [Hangman](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%207/hangman/hangman.py)
 &nbsp;
 
+<!-- ## Day 6 - Caesar Cipher (Encoder & Decoder)
+
+### Exercises
+
+- [Exercise 1 - Paint Area Calculator](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%208/exercises/)
+- [Exercise 2 - Prime Number Checker](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%208/exercises/)
+
+### Project - [Caesar Cipher](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%208/project/)
+&nbsp; -->
+
 
 
 
