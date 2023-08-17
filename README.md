@@ -93,8 +93,8 @@
 
 ### Exercises
 
-- [Exercise 1 - Paint Area Calculator](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%208/exercises/)
-- [Exercise 2 - Prime Number Checker](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%208/exercises/)
+- [Exercise 1 - Paint Area Calculator](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%208/exercises/paintcan.py)
+- [Exercise 2 - Prime Number Checker](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%208/exercises/prime_check.py)
 
 ### Project - [Caesar Cipher](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%208/project/cipher.py)
 &nbsp;
