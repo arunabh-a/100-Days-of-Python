@@ -89,7 +89,7 @@
 ### Project - [Hangman](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%207/hangman/hangman.py)
 &nbsp;
 
-## Day 6 - Caesar Cipher (Encoder & Decoder)
+## Day 8 - Caesar Cipher (Encoder & Decoder)
 
 ### Exercises
 
