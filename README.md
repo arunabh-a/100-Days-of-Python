@@ -99,7 +99,22 @@
 ### Project - [Caesar Cipher](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%208/project/cipher.py)
 &nbsp;
 
+## Day 9 - 
 
+### Exercises
+
+- [Exercise 1 - Mark Grader](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%209/exercises/grader.py)
+- [Exercise 2 - Travel Log (Dictionary in List)](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%209/exercises/disclist)
+
+### Project - [Silent Auction Manager](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%209/project/auction.py)
+&nbsp;
+
+<!-- ## Day 10 - 
+
+### Exercise - [](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2010/exercise/)
+
+### Project - [](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2010/project/)
+&nbsp; -->
 
 
 
