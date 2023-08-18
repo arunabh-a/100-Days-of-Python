@@ -99,7 +99,7 @@
 ### Project - [Caesar Cipher](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%208/project/cipher.py)
 &nbsp;
 
-## Day 9 - 
+## Day 9 - Silent Auction Manager
 
 ### Exercises
 
@@ -109,12 +109,12 @@
 ### Project - [Silent Auction Manager](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%209/project/auction.py)
 &nbsp;
 
-<!-- ## Day 10 - 
+## Day 10 - Calculator
 
-### Exercise - [](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2010/exercise/)
+### Exercise - [Days in Month](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2010/exercise/days.py)
 
-### Project - [](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2010/project/)
-&nbsp; -->
+### Project - [Calculator](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2010/project/calculator.py)
+&nbsp;
 
 
 
