@@ -1,7 +1,7 @@
 import os
-import ui
+from ui import logo 
 
-print(ui.logo)
+print(logo)
 bids = {}
 
 no_more = False
