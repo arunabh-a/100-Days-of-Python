@@ -116,7 +116,7 @@
 ### Project - [Calculator](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2010/project/calculator.py)
 &nbsp;
 
-## Day 7 - Blackjack (Capstone 1)
+## Day 11 - Blackjack (Capstone 1)
 
 ### Project - [Blackjack](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2011/project/blackjack.py)
 &nbsp;
