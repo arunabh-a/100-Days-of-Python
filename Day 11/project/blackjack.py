@@ -63,6 +63,7 @@ def main():
             elif draw == 'n':
                 game_over = True
                 print("The Game has ended")
+                break
         while comp_score != 0 and comp_score < 17:
             computer_cards.append(deal_card())
             comp_score = calculate_score(computer_cards)
@@ -71,8 +72,11 @@ def main():
         print(compare(user_score, comp_score))
 
     reitr = input("Do you want to Play Again ?? \n (y to restart) : ").lower()
-    while reitr == 'y':
+    if reitr == 'y':
         os.system('CLS')
         os.system('clear')
         main()
+    else:
+        game_over = True
+    
 main()

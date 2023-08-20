@@ -121,6 +121,11 @@
 ### Project - [Blackjack](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2011/project/blackjack.py)
 &nbsp;
 
+## Day 12 - Guess The Number (Game)
+
+### Project - [Guess The Number](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2012/number.py)
+&nbsp;
+
 
 
 
