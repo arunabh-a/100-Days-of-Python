@@ -125,6 +125,15 @@
 ### Project - [Guess The Number](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Day%2012/number.py)
 &nbsp;
 
+## Day 13 - Debugging and Error Finding
+
+### Exercises
+
+- [Exercise 1 - Debugging Odd or Even](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Day%2013/exercises/odd_even.py)
+- [Exercise 2 - Debugging Leap Year](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Day%2013/exercises/leap.py)
+- [Exercise 3 - Debugging FizzBuzz](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Day%2013/exercises/odd_even.py)
+
+&nbsp;
 
 
 
