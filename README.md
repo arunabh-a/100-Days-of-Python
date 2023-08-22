@@ -135,6 +135,11 @@
 
 &nbsp;
 
+## Day 14 - Higher or Lower (Game)
+
+### Project - [Higher or Lower](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Day%2014/higher_lower.py)
+&nbsp;
+
 
 
 
