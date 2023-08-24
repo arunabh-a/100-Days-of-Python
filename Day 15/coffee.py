@@ -2,67 +2,51 @@ from data import MENU
 from data import resources
 
 
-def required(drink):
-    '''Fetches the data from MENU'''
-    water_needed = MENU[drink]["ingredients"]["water"]
-    milk_needed = MENU[drink]["ingredients"]["milk"]
-    coffee_needed = MENU[drink]["ingredients"]["coffee"]
-    
-    cost = MENU[drink]["cost"]
-    return 'hehehehheeh'
-
-def restocking():
-    water_left += 200
-    milk_left += 200
-    coffee += 200
-
-def compare():
-    if resources_left > ingrdnts:
-        water_left - water
-        milk_left - milk
-        coffee_left - coffee
-    else:
-        print("Not Sufficient Resources")
-        restock = input("Do you want to restock ?? ('yes' or 'no')").lower()
-        if restock == "yes":
-            restocking()
-            compare()
-        else:
-            #should return them coins 
-            []
-
-
-
-water_left = resources['water']
-milk_left = resources['milk']
-coffee_left = resources['coffee']
-
-resources_left = [water_left, milk_left, coffee_left]
-
 money_left = 0
 
 no_cust = False
 
+
+def coins():
+    quarter_val = int(input("Enter the number of Quarters: ")) * 0.25
+    dime_val = int(input("Enter the number of Dimes: ")) * 0.1
+    nickel_val = int(input("Enter the number of Nickels: ")) * 0.05
+    penny_val = int(input("Enter the number of Pennies: ")) * 0.01
+    total = quarter_val + dime_val + nickel_val + penny_val
+    return total
+
+def compare(reserves):
+    for stock in reserves:
+        if reserves[stock] > resources[stock]:
+            print("Not Enough Reserves, might want to restock")
+        if reserves[stock] <= resources[stock]:
+            paid = coins()
+            if price > paid:
+                print("Not enough paid, payment returned")
+            elif price < paid:
+                change = paid - price
+                print(f"Here's your Change : ${round(change, 2)}")
+                resources[stock] -= reserves[stock]
+                print(f"Your {drink_choice} is ready")
+                break
+        
+
+
 while no_cust == False:
+    water_left = resources['water']
+    milk_left = resources['milk']
+    coffee_left = resources['coffee']
+
     drink_choice = input("What would you like? (espresso/latte/cappuccino)\n :").lower()
     if drink_choice == 'off':
         print('Successfully Turned off, Run the Program to Begin Again')
         break
     elif drink_choice == 'report':
         print(f" Water: {water_left}ml\n Milk: {milk_left}ml\n Coffee: {coffee_left}g\n Money: ${money_left}")
-
-    if drink_choice == 'espresso':
-        ingrdnts = required('espresso')
-    elif drink_choice == 'latte':
-        ingrdnts = required('latte')
-    elif drink_choice == 'cappuccino':
-        ingrdnts = required('cappuccino')
+    elif drink_choice == 'restock':
+        for stock in resources:
+            resources[stock] += 200
     else:
-        print('Please enter a Valid Command')
-
-    water = ingrdnts[0]
-    milk = ingrdnts[1]
-    coffee = ingrdnts[2]
-    price = ingrdnts[3]
-    compare()
-    
+        drink = MENU[drink_choice]
+        price = drink["cost"]
+        compare(reserves= drink["ingredients"])

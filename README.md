@@ -140,10 +140,10 @@
 ### Project - [Higher or Lower](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Day%2014/higher_lower.py)
 &nbsp;
 
-<!-- ## Day 15 - Virtual Coffee Machine
+## Day 15 - Virtual Coffee Machine
 
 ### Project - [VCM](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Day%2015/coffee.py)
-&nbsp; -->
+&nbsp;
 
 
 
