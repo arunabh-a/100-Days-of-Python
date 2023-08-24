@@ -118,6 +118,9 @@
 ## Day 11 - Blackjack (Capstone 1)
 
 ### Project - [Blackjack](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Day%2011/project/blackjack.py)
+
+### Documents
+- [Flowchart](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2011/Blackjack_Flowchart.pdf)
 &nbsp;
 
 ## Day 12 - Guess The Number (Game)
@@ -143,11 +146,24 @@
 ## Day 15 - Virtual Coffee Machine
 
 ### Project - [VCM](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Day%2015/coffee.py)
+
+### Documents
+- [Program Requirements](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2015/Program%20Requirements.pdf)
+&nbsp;
+
+## Day 16 - Virtual Coffee Machine (OOPS)
+
+### Project - [VCM 2.0](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Day%2016/project/opcoffee.py)
+
+### Documents
+- [Program Requirements](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2015/Program%20Requirements.pdf)
+- [Classes Documentation](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2016/Classes%20Documentation.pdf)
 &nbsp;
 
 
 
 
+<!-- Day 11, Day 15, Day 16 -->
 
 <!-- ## Author
 
