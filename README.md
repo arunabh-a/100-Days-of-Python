@@ -160,6 +160,10 @@
 - [Classes Documentation](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2016/Classes%20Documentation.pdf)
 &nbsp;
 
+## Day 17 - Quiz (OOPS)
+
+### Project - [Quiz](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Day%2017/quiz.py)
+&nbsp;
 
 
 
