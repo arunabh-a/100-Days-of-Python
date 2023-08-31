@@ -165,7 +165,7 @@
 ### Project - [Quiz](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Day%2017/quiz.py)
 &nbsp;
 
-<!-- ## Day 18 - The Hirst Painting
+## Day 18 - The Hirst Painting
 
 ### Challenges
 - [Turtle Square](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2018/challenges/square.py)
@@ -174,14 +174,12 @@
 - [Turtle Random Walk](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2018/challenges/walk.py)
 - [Turtle Spirograph](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2018/)
 
-### Project - [Hirst Painting](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Day%2018/project/.py)
+### Project - [Hirst Painting](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Day%2018/project/hirst.py)
 
 
-&nbsp; -->
+&nbsp;
 
 
-
-<!-- Day 11, Day 15, Day 16 -->
 
 <!-- ## Author
 
