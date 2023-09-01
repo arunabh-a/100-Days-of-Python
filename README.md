@@ -179,7 +179,14 @@
 
 &nbsp;
 
+<!-- ## Day 17 - Etch-A-Sketch & Turtle Race (Games)
 
+### Project 
+
+- [Etch-A-Sketch](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Day%2019/sketch.py)
+- [Turtle Race](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Day%2019/race.py)
+
+&nbsp; -->
 
 <!-- ## Author
 
