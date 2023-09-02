@@ -120,7 +120,7 @@
 ### Project - [Blackjack](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2020/Day%2011/project/blackjack.py)
 
 ### Documents
-- [Flowchart](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2011/Blackjack_Flowchart.pdf)
+- [Flowchart](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2020/Day%2011/Blackjack_Flowchart.pdf)
 &nbsp;
 
 ## Day 12 - Guess The Number (Game)
@@ -148,16 +148,16 @@
 ### Project - [VCM](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2020/Day%2015/coffee.py)
 
 ### Documents
-- [Program Requirements](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2015/Program%20Requirements.pdf)
+- [Program Requirements](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2020/Day%2015/Program%20Requirements.pdf)
 &nbsp;
 
 ## Day 16 - Virtual Coffee Machine (OOPS)
 
-### Project - [VCM 2.0](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2020/Day%2016/project/opcoffee.py)
+### Project - [VCM 2.0](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2020/Day%2016/project/oopcoffee.py)
 
 ### Documents
-- [Program Requirements](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2015/Program%20Requirements.pdf)
-- [Classes Documentation](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2016/Classes%20Documentation.pdf)
+- [Program Requirements](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2020/Day%2015/Program%20Requirements.pdf)
+- [Classes Documentation](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2020/Day%2016/Classes%20Documentation.pdf)
 &nbsp;
 
 ## Day 17 - Quiz (OOPS)
@@ -168,11 +168,11 @@
 ## Day 18 - The Hirst Painting
 
 ### Challenges
-- [Turtle Square](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2018/challenges/square.py)
-- [Turtle Dashed Line](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2018/challenges/line.py)
-- [Turtle Shapes](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2018/challenges/shapes.py)
-- [Turtle Random Walk](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2018/challenges/walk.py)
-- [Turtle Spirograph](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Day%2018/)
+- [Turtle Square](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2020/Day%2018/challenges/square.py)
+- [Turtle Dashed Line](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2020/Day%2018/challenges/line.py)
+- [Turtle Shapes](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2020/Day%2018/challenges/shapes.py)
+- [Turtle Random Walk](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2020/Day%2018/challenges/walk.py)
+- [Turtle Spirograph](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2020/Day%2018/challenges/spirograph.py)
 
 ### Project - [Hirst Painting](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2020/Day%2018/project/hirst.py)
 
