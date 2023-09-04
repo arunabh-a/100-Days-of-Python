@@ -4,6 +4,8 @@ UP = 90
 DOWN = 270
 LEFT = 180
 RIGHT = 0
+POS_BORDER = 280
+NEG_BORDER = -280
 screen = Screen()
 class Snake():
     
@@ -41,3 +43,16 @@ class Snake():
     def right(self):
             if self.head.heading() != LEFT:
                 self.head.setheading(RIGHT)
+
+    def returning(self):
+        if self.head.xcor() > POS_BORDER:
+            self.head.goto(x = NEG_BORDER, y = self.head.ycor())
+
+        if self.head.xcor() < NEG_BORDER:
+            self.head.goto(x = POS_BORDER, y = self.head.ycor())
+        
+        if self.head.ycor() > POS_BORDER:
+            self.head.goto(x = self.head.xcor(), y = NEG_BORDER)
+        
+        if self.head.ycor() < NEG_BORDER:
+            self.head.goto(x = self.head.xcor(), y = POS_BORDER)
