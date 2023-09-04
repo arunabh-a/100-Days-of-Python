@@ -1,3 +1,4 @@
+# The Snake Game: Day 20 Project (further continued to Day 21)
 from turtle import Screen
 import time
 from snakefunc import Snake
@@ -32,11 +33,21 @@ while game_on:
 
     if snake.head.distance(food) < 13 :
         food.refresh()
+        snake.extend()
         score.add_score()
 
     if snake.head.xcor() > 280 or snake.head.xcor() < -280 or snake.head.ycor() > 280 or snake.head.ycor() < -280:
         snake.returning()
 
+    for tutle in snake.turtles[2:len(snake.turtles)]:
+        
+        if snake.head.distance(tutle) < 10:
+            game_on = False
+            score.game_over()
+
+    if score.loopend:
+        game_on = False
+    
 
 
 

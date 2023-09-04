@@ -16,13 +16,8 @@ class Snake():
         self.head = self.turtles[0]
 
     def createSnake(self):
-        for i in range (4):
-            new_turt = Turtle(shape="square")
-            new_turt.penup()
-            new_turt.color("white")
-            new_turt.goto(x = self.orgn_xaxis, y = 0)
-            self.orgn_xaxis -= MOVE_PACE
-            self.turtles.append(new_turt)
+        for pos in range (4):
+            self.add_block(pos)
 
     def move(self):
         for turtle in range(len(self.turtles) - 1, 0, -1):
@@ -43,6 +38,17 @@ class Snake():
     def right(self):
             if self.head.heading() != LEFT:
                 self.head.setheading(RIGHT)
+
+    def extend(self):
+        self.add_block(self.turtles[-1].pos())
+
+    def add_block(self, pos):
+        new_turt = Turtle(shape="square")
+        new_turt.penup()
+        new_turt.color("white")
+        new_turt.goto(x = self.orgn_xaxis, y = 0)
+        self.orgn_xaxis -= MOVE_PACE
+        self.turtles.append(new_turt)
 
     def returning(self):
         if self.head.xcor() > POS_BORDER:
