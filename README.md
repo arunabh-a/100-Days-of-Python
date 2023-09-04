@@ -188,17 +188,16 @@
 
 &nbsp;
 
-<!-- ## Day 20 - The Snake Game Part 1
+## Day 20 - The Snake Game (Part 1)
 
 ### Project - [Snake](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2020/Day%2020%20&%2021/snake.py)
 &nbsp;
- -->
 
-<!-- ## Day 21 - The Snake Game Part 2
+## Day 21 - The Snake Game (Part 2)
 
 ### Project - [Snake](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2020/Day%2020%20&%2021/snake.py)
 &nbsp;
- -->
+
 
 
 
@@ -207,5 +206,5 @@
 <!-- ## Author
 
 - [@arunabh-a](https://www.github.com/arunabh-a)
- -->
+
 
