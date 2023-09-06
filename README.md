@@ -117,64 +117,64 @@
 &nbsp;
 ## Day 11 - Blackjack (Capstone 1)
 
-### Project - [Blackjack](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2020/Day%2011/project/blackjack.py)
+### Project - [Blackjack](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2021/Day%2011/project/blackjack.py)
 
 ### Documents
-- [Flowchart](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2020/Day%2011/Blackjack_Flowchart.pdf)
+- [Flowchart](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2011/Blackjack_Flowchart.pdf)
 &nbsp;
 
 ## Day 12 - Guess The Number (Game)
 
-### Project - [Guess The Number](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2020/Day%2012/number.py)
+### Project - [Guess The Number](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2021/Day%2012/number.py)
 &nbsp;
 
 ## Day 13 - Debugging and Error Finding
 
 ### Exercises
 
-- [Exercise 1 - Debugging Odd or Even](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2020/Day%2013/exercises/odd_even.py)
-- [Exercise 2 - Debugging Leap Year](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2020/Day%2013/exercises/leap.py)
-- [Exercise 3 - Debugging FizzBuzz](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2020/Day%2013/exercises/odd_even.py)
+- [Exercise 1 - Debugging Odd or Even](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2021/Day%2013/exercises/odd_even.py)
+- [Exercise 2 - Debugging Leap Year](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2021/Day%2013/exercises/leap.py)
+- [Exercise 3 - Debugging FizzBuzz](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2021/Day%2013/exercises/odd_even.py)
 
 &nbsp;
 
 ## Day 14 - Higher or Lower (Game)
 
-### Project - [Higher or Lower](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2020/Day%2014/higher_lower.py)
+### Project - [Higher or Lower](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2021/Day%2014/higher_lower.py)
 &nbsp;
 
 ## Day 15 - Virtual Coffee Machine
 
-### Project - [VCM](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2020/Day%2015/coffee.py)
+### Project - [VCM](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2021/Day%2015/coffee.py)
 
 ### Documents
-- [Program Requirements](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2020/Day%2015/Program%20Requirements.pdf)
+- [Program Requirements](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2015/Program%20Requirements.pdf)
 &nbsp;
 
 ## Day 16 - Virtual Coffee Machine (OOPS)
 
-### Project - [VCM 2.0](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2020/Day%2016/project/oopcoffee.py)
+### Project - [VCM 2.0](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2016/project/oopcoffee.py)
 
 ### Documents
-- [Program Requirements](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2020/Day%2015/Program%20Requirements.pdf)
-- [Classes Documentation](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2020/Day%2016/Classes%20Documentation.pdf)
+- [Program Requirements](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2015/Program%20Requirements.pdf)
+- [Classes Documentation](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2016/Classes%20Documentation.pdf)
 &nbsp;
 
 ## Day 17 - Quiz (OOPS)
 
-### Project - [Quiz](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2020/Day%2017/quiz.py)
+### Project - [Quiz](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2021/Day%2017/quiz.py)
 &nbsp;
 
 ## Day 18 - The Hirst Painting
 
 ### Challenges
-- [Turtle Square](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2020/Day%2018/challenges/square.py)
-- [Turtle Dashed Line](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2020/Day%2018/challenges/line.py)
-- [Turtle Shapes](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2020/Day%2018/challenges/shapes.py)
-- [Turtle Random Walk](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2020/Day%2018/challenges/walk.py)
-- [Turtle Spirograph](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2020/Day%2018/challenges/spirograph.py)
+- [Turtle Square](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2018/challenges/square.py)
+- [Turtle Dashed Line](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2018/challenges/line.py)
+- [Turtle Shapes](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2018/challenges/shapes.py)
+- [Turtle Random Walk](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2018/challenges/walk.py)
+- [Turtle Spirograph](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2018/challenges/spirograph.py)
 
-### Project - [Hirst Painting](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2020/Day%2018/project/hirst.py)
+### Project - [Hirst Painting](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2021/Day%2018/project/hirst.py)
 
 
 &nbsp;
@@ -183,19 +183,19 @@
 
 ### Project 
 
-- [Etch-A-Sketch](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2020/Day%2019/sketch.py)
-- [Turtle Race](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2020/Day%2019/race.py)
+- [Etch-A-Sketch](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2021/Day%2019/sketch.py)
+- [Turtle Race](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2021/Day%2019/race.py)
 
 &nbsp;
 
 ## Day 20 - The Snake Game (Part 1)
 
-### Project - [Snake](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2020/Day%2020%20&%2021/snake.py)
+### Project - [Snake](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2021/Day%2020%20&%2021/snake.py)
 &nbsp;
 
 ## Day 21 - The Snake Game (Part 2)
 
-### Project - [Snake](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2020/Day%2020%20&%2021/snake.py)
+### Project - [Snake](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2021/Day%2020%20&%2021/snake.py)
 &nbsp;
 
 
