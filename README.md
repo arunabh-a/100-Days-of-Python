@@ -198,6 +198,11 @@
 ### Project - [Snake](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2021/Day%2020%20&%2021/snake.py)
 &nbsp;
 
+## Day 22 - The Pong Game
+
+### Project - [Pong](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Day%2022/pong.py)
+&nbsp;
+
 
 
 
