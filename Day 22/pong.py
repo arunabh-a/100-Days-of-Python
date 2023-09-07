@@ -17,8 +17,8 @@ game_on = True
 def game_over():
     game_on = False
 
-pad_r = Pong((400, 0))
-pad_l = Pong((-400, 0))
+pad_r = Pong((400, 0), "red")
+pad_l = Pong((-400, 0), "blue")
 ball = Ball()
 score = Score()
 

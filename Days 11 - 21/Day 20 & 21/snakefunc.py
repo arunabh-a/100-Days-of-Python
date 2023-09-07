@@ -14,6 +14,7 @@ class Snake():
         self.orgn_xaxis = 0
         self.createSnake()
         self.head = self.turtles[0]
+        self.head.color("red")
 
     def createSnake(self):
         for pos in range (4):

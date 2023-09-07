@@ -2,10 +2,10 @@ from turtle import Turtle
 
 class Pong(Turtle):
     
-    def __init__(self, position):
+    def __init__(self, position, color):
         super().__init__()
         self.shape("square")
-        self.color("white")
+        self.color(color)
         self.shapesize(5, 1)
         self.penup()
         self.goto(position)
