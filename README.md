@@ -203,7 +203,10 @@
 ### Project - [Pong](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Day%2022/pong.py)
 &nbsp;
 
+## Day 23 - Turtle Crossing Game
 
+### Project - [Turtle Crossing](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Day%2023/turtle_cross.py)
+&nbsp;
 
 
 

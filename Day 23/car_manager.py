@@ -8,6 +8,7 @@ MOVE_INCREMENT = 10
 class CarManager:
     def __init__(self) :
         self.carlist = []
+        self.carspeed = STARTING_MOVE_DISTANCE
 
     def cargen(self):
         chance = r.randint(1, 6)
@@ -20,12 +21,11 @@ class CarManager:
             car.goto(310, r.randint(-250, 250))
             self.carlist.append(car)
     
+    def spedup(self):
+        self.carspeed += MOVE_INCREMENT
     def move_it(self):
         for car in self.carlist:
             car.setheading(180)
-            car.forward(STARTING_MOVE_DISTANCE)
+            car.forward(self.carspeed)
 
-    def spedup(self):
-        STARTING_MOVE_DISTANCE += MOVE_INCREMENT
-        self.forward(STARTING_MOVE_DISTANCE)
-
+    
