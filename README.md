@@ -1,9 +1,9 @@
 
-# 100 Days of Code: The Python Bootcamp
+<h1 align='center'> 100 Days of Code: Python </h1>
 
 
 **Status - In Progress**  
-*Here you will find **100 Projects done in 100 days** starting from **9-8-2023***
+*Here you will find **100 Projects done in 100 days** 
 
 
 ## Acknowledgements
