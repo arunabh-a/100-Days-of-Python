@@ -141,6 +141,7 @@
 ## Day 14 - Higher or Lower (Game)
 
 ### Project - [Higher or Lower](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2021/Day%2014/higher_lower.py)
+
 &nbsp;
 
 ## Day 15 - Virtual Coffee Machine
@@ -149,6 +150,7 @@
 
 ### Documents
 - [Program Requirements](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2015/Program%20Requirements.pdf)
+
 &nbsp;
 
 ## Day 16 - Virtual Coffee Machine (OOPS)
@@ -158,11 +160,13 @@
 ### Documents
 - [Program Requirements](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2015/Program%20Requirements.pdf)
 - [Classes Documentation](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2016/Classes%20Documentation.pdf)
+
 &nbsp;
 
 ## Day 17 - Quiz (OOPS)
 
 ### Project - [Quiz](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2021/Day%2017/quiz.py)
+
 &nbsp;
 
 ## Day 18 - The Hirst Painting
@@ -208,8 +212,6 @@
 ### Project - [Turtle Crossing](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Day%2023/turtle_cross.py)
 &nbsp;
 
-
-#PAUSED FROM SEP 9 - TO 
 
 <!-- ## Author
 
