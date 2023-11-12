@@ -21,7 +21,7 @@ total = int(str(true) + str(love))
 
 if (total < 10) or (total > 90):
     print(f"Your score is {total}, you go together like coke and mentos.")
-elif (total >= 40) or (total <=50) or (total == 54):
+elif (total >= 40) and (total <=50) or (total == 54):
     print(f"Your score is {total}, you are alright together.")
 else:
     print(f"Your score is {total}.")
