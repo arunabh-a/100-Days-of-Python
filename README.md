@@ -3,7 +3,7 @@
 
 
 **Status - In Progress**  
-*Here you will find **100 Projects done in 100 days** 
+Here you will find **100 Projects done in 100 days** 
 
 
 ## Acknowledgements
