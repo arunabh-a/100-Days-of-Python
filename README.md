@@ -2,8 +2,8 @@
 <h1 align='center'> 100 Days of Code: Python </h1>
 
 
-**Status - In Progress**  
-Here you will find **100 Projects done in 100 days** 
+**Status - In Progress**
+Here you will find **100 Projects done in 100 days**
 
 
 ## Acknowledgements
@@ -23,6 +23,7 @@ Here you will find **100 Projects done in 100 days**
 - [Exercise 4 - Variables](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%201%20-%2010/Day%201/exercises/variables.py)
 
 ### Project - [Stage Name Generator](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%201%20-%2010/Day%201/project/bng.py)
+
 &nbsp;
 
 ## Day 2 - Tip Calculator
@@ -34,9 +35,10 @@ Here you will find **100 Projects done in 100 days**
 - [Exercise 3 - Life in Weeks (F Strings)](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%201%20-%2010/Day%202/exercises/life.py)
 
 ### Project - [Tip Calculator](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%201%20-%2010/Day%202/project/tip.py)
+
 &nbsp;
 
-## Day 3 - Treasure Island (Game) 
+## Day 3 - Treasure Island (Game)
 
 ### Exercises
 
@@ -47,9 +49,10 @@ Here you will find **100 Projects done in 100 days**
 - [Exercise 5 - Love Calculator](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%201%20-%2010/Day%203/exercises/love.py)
 
 ### Project - [Treasure Island](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%201%20-%2010/Day%203/project/treasure_island.py)
+
 &nbsp;
 
-## Day 4 - Rock Paper Scissors (Game) 
+## Day 4 - Rock Paper Scissors (Game)
 
 ### Exercises
 
@@ -58,9 +61,10 @@ Here you will find **100 Projects done in 100 days**
 - [Exercise 3 - Treasure Map](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%201%20-%2010/Day%204/exercises/map.py)
 
 ### Project - [Rock Paper Scissors](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%201%20-%2010/Day%204/project/rps.py)
+
 &nbsp;
 
-## Day 5 - Password Generator 
+## Day 5 - Password Generator
 
 ### Exercises
 
@@ -70,6 +74,7 @@ Here you will find **100 Projects done in 100 days**
 - [Exercise 4 - FizzBuzz](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%201%20-%2010/Day%205/exercises/fizzbuzz.py)
 
 ### Project - [Password Generator](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%201%20-%2010/Day%205/project/passgen.py)
+
 &nbsp;
 
 ## Day 6 - Hurdles and Mazes (Reborg's World)
@@ -82,11 +87,13 @@ Here you will find **100 Projects done in 100 days**
 - [Exercise 4 - Hurdle 4](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%201%20-%2010/Day%206/exercises/hurdle%204/hurdle.py)
 
 ### Challenge - [Maze](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%201%20-%2010/Day%206/challenge/maze.py)
+
 &nbsp;
 
 ## Day 7 - Hangman (Game)
 
 ### Project - [Hangman](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%201%20-%2010/Day%207/hangman/hangman.py)
+
 &nbsp;
 
 ## Day 8 - Caesar Cipher (Encoder & Decoder)
@@ -97,6 +104,7 @@ Here you will find **100 Projects done in 100 days**
 - [Exercise 2 - Prime Number Checker](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%201%20-%2010/Day%208/exercises/prime_check.py)
 
 ### Project - [Caesar Cipher](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%201%20-%2010/Day%208/project/cipher.py)
+
 &nbsp;
 
 ## Day 9 - Silent Auction Manager
@@ -107,6 +115,7 @@ Here you will find **100 Projects done in 100 days**
 - [Exercise 2 - Travel Log (Dictionary in List)](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%201%20-%2010/Day%209/exercises/disclist)
 
 ### Project - [Silent Auction Manager](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%201%20-%2010/Day%209/project/auction.py)
+
 &nbsp;
 
 ## Day 10 - Calculator
@@ -114,18 +123,22 @@ Here you will find **100 Projects done in 100 days**
 ### Exercise - [Days in Month](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%201%20-%2010/Day%2010/exercise/days.py)
 
 ### Project - [Calculator](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%201%20-%2010/Day%2010/project/calculator.py)
+
 &nbsp;
+
 ## Day 11 - Blackjack (Capstone 1)
 
 ### Project - [Blackjack](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2021/Day%2011/project/blackjack.py)
 
 ### Documents
+
 - [Flowchart](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2011/Blackjack_Flowchart.pdf)
 &nbsp;
 
 ## Day 12 - Guess The Number (Game)
 
 ### Project - [Guess The Number](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2021/Day%2012/number.py)
+
 &nbsp;
 
 ## Day 13 - Debugging and Error Finding
@@ -149,6 +162,7 @@ Here you will find **100 Projects done in 100 days**
 ### Project - [VCM](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2021/Day%2015/coffee.py)
 
 ### Documents
+
 - [Program Requirements](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2015/Program%20Requirements.pdf)
 
 &nbsp;
@@ -158,6 +172,7 @@ Here you will find **100 Projects done in 100 days**
 ### Project - [VCM 2.0](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2016/project/oopcoffee.py)
 
 ### Documents
+
 - [Program Requirements](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2015/Program%20Requirements.pdf)
 - [Classes Documentation](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2016/Classes%20Documentation.pdf)
 
@@ -172,6 +187,7 @@ Here you will find **100 Projects done in 100 days**
 ## Day 18 - The Hirst Painting
 
 ### Challenges
+
 - [Turtle Square](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2018/challenges/square.py)
 - [Turtle Dashed Line](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2018/challenges/line.py)
 - [Turtle Shapes](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2018/challenges/shapes.py)
@@ -180,12 +196,11 @@ Here you will find **100 Projects done in 100 days**
 
 ### Project - [Hirst Painting](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2021/Day%2018/project/hirst.py)
 
-
 &nbsp;
 
 ## Day 19 - Etch-A-Sketch & Turtle Race (Games)
 
-### Project 
+### Project
 
 - [Etch-A-Sketch](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2021/Day%2019/sketch.py)
 - [Turtle Race](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2021/Day%2019/race.py)
@@ -195,26 +210,34 @@ Here you will find **100 Projects done in 100 days**
 ## Day 20 - The Snake Game (Part 1)
 
 ### Project - [Snake](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2021/Day%2020%20&%2021/snake.py)
+
 &nbsp;
 
 ## Day 21 - The Snake Game (Part 2)
 
 ### Project - [Snake](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Days%2011%20-%2021/Day%2020%20&%2021/snake.py)
+
 &nbsp;
 
 ## Day 22 - The Pong Game
 
 ### Project - [Pong](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Day%2022/pong.py)
+
 &nbsp;
 
 ## Day 23 - Turtle Crossing Game
 
 ### Project - [Turtle Crossing](https://github.com/arunabh-a/100-Days-of-Python/tree/main/Day%2023/turtle_cross.py)
+
 &nbsp;
 
+## Day 24 - File Handling
 
-<!-- ## Author
+### Exercise - [CRUD](/Day%2024/exercise/file.py)
 
-- [@arunabh-a](https://www.github.com/arunabh-a)
+### Projects
 
+- [Mail Merge](/Day%2024/project/mail.py)
+- [Snake High Score](/Days%2011%20-%2021/Day%2020%20&%2021/score.py)
 
+&nbsp;

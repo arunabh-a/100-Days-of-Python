@@ -20,6 +20,15 @@ class Snake():
         for pos in range (4):
             self.add_block(pos)
 
+    def snakeReturn(self):
+        for turtle in self.turtles:
+            turtle.goto(1000,1000)
+        self.turtles.clear()
+        self.createSnake()
+        self.head = self.turtles[0]
+        self.head.color("red")
+
+
     def move(self):
         for turtle in range(len(self.turtles) - 1, 0, -1):
             new_x = self.turtles[turtle - 1].xcor()
