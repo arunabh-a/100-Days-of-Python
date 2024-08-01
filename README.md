@@ -1,15 +1,13 @@
 
 <h1 align='center'> 100 Days of Code: Python </h1>
 
-
 **Status - In Progress**
 Here you will find **100 Projects done in 100 days**
 
-
 ## Acknowledgements
 
- - [Course](https://www.udemy.com/course/100-days-of-code/)
- - [Course Instructor](https://github.com/angelabauer)
+- [Course](https://www.udemy.com/course/100-days-of-code/)
+- [Course Instructor](https://github.com/angelabauer)
 
 &nbsp;
 
@@ -239,5 +237,16 @@ Here you will find **100 Projects done in 100 days**
 
 - [Mail Merge](/Day%2024/project/mail.py)
 - [Snake High Score](/Days%2011%20-%2021/Day%2020%20&%2021/score.py)
+
+&nbsp;
+
+## Day 25 - Pandas Library (CSV)
+
+### Exercises
+
+- [Weather](/Day%2025/exercises/weather/read_weather.py)
+- [Squirrel](/Day%2025/exercises/squirrel/squirrel_data.py)
+
+### Project - [State Guesser (India)](Day%2025/project/states.py)
 
 &nbsp;
