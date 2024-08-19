@@ -31,11 +31,10 @@ all_states = state_data.state.to_list()
 
 while isRight == True:
     answer = screen.textinput(
-        title=f"{correct_answers}/29 Correct", 
+        title=f"{correct_answers}/29 Correct",
         prompt="What's the state's name?"
         )
 
-    
     answer = answer.title()
 
     if answer == 'Exit':

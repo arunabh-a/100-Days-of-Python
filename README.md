@@ -130,7 +130,7 @@ Here you will find **100 Projects done in 100 days**
 
 ### Documents
 
-- [Flowchart](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2011/Blackjack_Flowchart.pdf)
+- [Flowchart](Days%2011%20-%2021/Day%2011/Blackjack_Flowchart.pdf)
 &nbsp;
 
 ## Day 12 - Guess The Number (Game)
@@ -161,18 +161,18 @@ Here you will find **100 Projects done in 100 days**
 
 ### Documents
 
-- [Program Requirements](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2015/Program%20Requirements.pdf)
+- [Program Requirements](Days%2011%20-%2021/Day%2015/Program%20Requirements.pdf)
 
 &nbsp;
 
 ## Day 16 - Virtual Coffee Machine (OOPS)
 
-### Project - [VCM 2.0](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2016/project/oopcoffee.py)
+### Project - [VCM 2.0](Days%2011%20-%2021/Day%2016/project/oopcoffee.py)
 
 ### Documents
 
-- [Program Requirements](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2015/Program%20Requirements.pdf)
-- [Classes Documentation](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2016/Classes%20Documentation.pdf)
+- [Program Requirements](Days%2011%20-%2021/Day%2015/Program%20Requirements.pdf)
+- [Classes Documentation](Days%2011%20-%2021/Day%2016/Classes%20Documentation.pdf)
 
 &nbsp;
 
@@ -186,11 +186,11 @@ Here you will find **100 Projects done in 100 days**
 
 ### Challenges
 
-- [Turtle Square](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2018/challenges/square.py)
-- [Turtle Dashed Line](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2018/challenges/line.py)
-- [Turtle Shapes](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2018/challenges/shapes.py)
-- [Turtle Random Walk](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2018/challenges/walk.py)
-- [Turtle Spirograph](https://github.com/arunabh-a/100-Days-of-Python/blob/main/Days%2011%20-%2021/Day%2018/challenges/spirograph.py)
+- [Turtle Square](Days%2011%20-%2021/Day%2018/challenges/square.py)
+- [Turtle Dashed Line](Days%2011%20-%2021/Day%2018/challenges/line.py)
+- [Turtle Shapes](Days%2011%20-%2021/Day%2018/challenges/shapes.py)
+- [Turtle Random Walk](Days%2011%20-%2021/Day%2018/challenges/walk.py)
+- [Turtle Spirograph](Days%2011%20-%2021/Day%2018/challenges/spirograph.py)
 
 ### Project - [Hirst Painting](Days%2011%20-%2021/Day%2018/project/hirst.py)
 
@@ -250,3 +250,9 @@ Here you will find **100 Projects done in 100 days**
 ### Project - [State Guesser (India)](Day%2025/project/states.py)
 
 &nbsp;
+
+## Day 26 - List & Dictionary Comprehension
+
+### Exercise - [Dictionary Comprehension](/Day%2026/dict.py)
+
+### Project - [NATO Transmission Decoder](Day%2026/project/nato.py)
