@@ -1,3 +1,4 @@
+# Dictionary Comprehension: Day 26
 names = ['Alex', 'Beth', 'Caroline', 'Dave', 'Eleanor', 'Freddie']
 
 import random as r

@@ -211,9 +211,9 @@ Here you will find **100 Projects done in 100 days**
 
 &nbsp;
 
-## Day 21 - The Snake Game (Part 2)
+## Day 21 - List Slicing
 
-### Project - [Snake](Days%2011%20-%2021/Day%2020%20&%2021/snake.py)
+### Exercise - [List Slicing](Day%2021/slicing.py)
 
 &nbsp;
 
@@ -256,3 +256,7 @@ Here you will find **100 Projects done in 100 days**
 ### Exercise - [Dictionary Comprehension](/Day%2026/dict.py)
 
 ### Project - [NATO Transmission Decoder](Day%2026/project/nato.py)
+
+&nbsp;
+
+## Day 27 - Tkinter Library

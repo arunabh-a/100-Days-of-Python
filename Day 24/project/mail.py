@@ -1,3 +1,4 @@
+# Mail Merge: Day 24 Project
 PLACEHOLDER = "[name]"
 with open("Input/Names/invited_names.txt") as names_file:
     names = names_file.readlines()

@@ -1,3 +1,4 @@
+# Squirrel DataFrame: Day 25
 import pandas as pd
 
 data = pd.read_csv('2018_Squirrel_Data.csv')
