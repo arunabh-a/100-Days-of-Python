@@ -29,11 +29,11 @@ Here you will find **100 Projects done in 100 days**
 
 ### Exercises
 
-- [Exercise 1 - Data Types](Days%201%20-%2010/Day%202/exercises/data_type.py)
-- [Exercise 2 - BMI Calculator (Mathmatical Operations)](Days%201%20-%2010/Day%202/exercises/bmi.py)
-- [Exercise 3 - Life in Weeks (F Strings)](Days%201%20-%2010/Day%202/exercises/life.py)
+- [Exercise 1 - Data Types](Days%201%20-%2010/Days%2021%20-%2030/Day%202/exercises/data_type.py)
+- [Exercise 2 - BMI Calculator (Mathmatical Operations)](Days%201%20-%2010/Days%2021%20-%2030/Day%202/exercises/bmi.py)
+- [Exercise 3 - Life in Weeks (F Strings)](Days%201%20-%2010/Days%2021%20-%2030/Day%202/exercises/life.py)
 
-### Project - [Tip Calculator](Days%201%20-%2010/Day%202/project/tip.py)
+### Project - [Tip Calculator](Days%201%20-%2010/Days%2021%20-%2030/Day%202/project/tip.py)
 
 &nbsp;
 
@@ -208,36 +208,36 @@ Here you will find **100 Projects done in 100 days**
 
 ## Day 20 - The Snake Game (Part 1)
 
-### Project - [Snake](Days%2011%20-%2021/Day%2020%20&%2021/snake.py)
+### Project - [Snake](Days%2011%20-%2021/Days%2021%20-%2030/Day%2020%20&%2021/snake.py)
 
 &nbsp;
 
 ## Day 21 - List Slicing
 
-### Exercise - [List Slicing](Day%2021/slicing.py)
+### Exercise - [List Slicing](Days%2021%20-%2030/Day%2021/slicing.py)
 
 &nbsp;
 
 ## Day 22 - The Pong Game
 
-### Project - [Pong](Day%2022/pong.py)
+### Project - [Pong](Days%2021%20-%2030/Day%2022/pong.py)
 
 &nbsp;
 
 ## Day 23 - Turtle Crossing Game
 
-### Project - [Turtle Crossing](Day%2023/turtle_cross.py)
+### Project - [Turtle Crossing](Days%2021%20-%2030/Day%2023/turtle_cross.py)
 
 &nbsp;
 
 ## Day 24 - File Handling
 
-### Exercise - [CRUD](/Day%2024/exercise/file.py)
+### Exercise - [CRUD](/Days%2021%20-%2030/Day%2024/exercise/file.py)
 
 ### Projects
 
-- [Mail Merge](/Day%2024/project/mail.py)
-- [Snake High Score](/Days%2011%20-%2021/Day%2020%20&%2021/score.py)
+- [Mail Merge](/Days%2021%20-%2030/Day%2024/project/mail.py)
+- [Snake High Score](/Days%2011%20-%2021/Days%2021%20-%2030/Day%2020%20&%2021/score.py)
 
 &nbsp;
 
@@ -245,18 +245,18 @@ Here you will find **100 Projects done in 100 days**
 
 ### Exercises
 
-- [Weather](/Day%2025/exercises/weather/read_weather.py)
-- [Squirrel](/Day%2025/exercises/squirrel/squirrel_data.py)
+- [Weather](/Days%2021%20-%2030/Day%2025/exercises/weather/read_weather.py)
+- [Squirrel](/Days%2021%20-%2030/Day%2025/exercises/squirrel/squirrel_data.py)
 
-### Project - [State Guesser (India)](Day%2025/project/states.py)
+### Project - [State Guesser (India)](Days%2021%20-%2030/Day%2025/project/states.py)
 
 &nbsp;
 
 ## Day 26 - List & Dictionary Comprehension
 
-### Exercise - [Dictionary Comprehension](/Day%2026/dict.py)
+### Exercise - [Dictionary Comprehension](/Days%2021%20-%2030/Day%2026/dict.py)
 
-### Project - [NATO Transmission Decoder](Day%2026/project/nato.py)
+### Project - [NATO Transmission Decoder](Days%2021%20-%2030/Day%2026/project/nato.py)
 
 &nbsp;
 
@@ -264,22 +264,22 @@ Here you will find **100 Projects done in 100 days**
 
 ### Exercises
 
-- [Tkinter Buttons](/Day%2027/exercise/button.py)
-- [Multiple Positional Arguments](/Day%2027/exercise/args.py)
+- [Tkinter Buttons](/Days%2021%20-%2030/Day%2027/exercise/button.py)
+- [Multiple Positional Arguments](/Days%2021%20-%2030/Day%2027/exercise/args.py)
 
-### Project - [NATO Transmission Decoder](Day%2027/project/miles-to-km.py)
+### Project - [NATO Transmission Decoder](Days%2021%20-%2030/Day%2027/project/miles-to-km.py)
 
 &nbsp;
 
 ## Day 28 - Pomodoro Timer (Tkinter)
 
-### Project - [Pomodoro Timer](Day%2028/pomodoro.py)
+### Project - [Pomodoro Timer](Days%2021%20-%2030/Day%2028/pomodoro.py)
 
 &nbsp;
 
 ## Day 29 - Password Manager (Tkinter)
 
-### Project - [Password Manager](Day%2029/password.py)
+### Project - [Password Manager](Days%2021%20-%2030/Day%2029/password.py)
 
 &nbsp;
 
@@ -287,7 +287,7 @@ Here you will find **100 Projects done in 100 days**
 
 ### Exercises
 
-- [IndexError Handling](/Day%2030/fruit.py)
-- [KeyError Handling](/Day%2030/posts.py)
+- [IndexError Handling](Days%2021%20-%2030/Day%2030/fruit.py)
+- [KeyError Handling](Days%2021%20-%2030/Day%2030/posts.py)
 
 &nbsp;
