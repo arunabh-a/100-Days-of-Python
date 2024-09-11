@@ -2,6 +2,7 @@
 <h1 align='center'> 100 Days of Code: Python </h1>
 
 **Status - In Progress**
+
 Here you will find **100 Projects done in 100 days**
 
 ## Acknowledgements
@@ -260,3 +261,33 @@ Here you will find **100 Projects done in 100 days**
 &nbsp;
 
 ## Day 27 - Tkinter Library
+
+### Exercises
+
+- [Tkinter Buttons](/Day%2027/exercise/button.py)
+- [Multiple Positional Arguments](/Day%2027/exercise/args.py)
+
+### Project - [NATO Transmission Decoder](Day%2027/project/miles-to-km.py)
+
+&nbsp;
+
+## Day 28 - Pomodoro Timer (Tkinter)
+
+### Project - [Pomodoro Timer](Day%2028/pomodoro.py)
+
+&nbsp;
+
+## Day 29 - Password Manager (Tkinter)
+
+### Project - [Password Manager](Day%2029/password.py)
+
+&nbsp;
+
+## Day 30 - Error Handling
+
+### Exercises
+
+- [IndexError Handling](/Day%2030/fruit.py)
+- [KeyError Handling](/Day%2030/posts.py)
+
+&nbsp;

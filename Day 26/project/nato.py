@@ -10,8 +10,14 @@ natoDict = {row.letter:row.code for (index, row) in nato.iterrows()}
 
 # print(natoDict)
 
-#TODO 2. Create a list of the phonetic code words from a word that the user inputs.
-transmition = input("Enter a word: ").upper()
-transmitionList = [natoDict[letter] for letter in transmition]
+def phonetic():
+    transmition = input("Enter a word: ").upper()
+    try:
+        transmitionList = [natoDict[letter] for letter in transmition]
+    except KeyError:
+        print("Sorry, please enter a valid word.") 
+        phonetic()
+    else:
+        print(transmitionList)
 
-print(transmitionList)
+phonetic() 
